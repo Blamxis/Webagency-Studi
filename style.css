@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: grey;
+}
+
+.titre {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: 35px;
+}
+
+.container {
+    margin-top: 20px;
+    margin-left: 30%;
+    margin-right: 30%;
+    color: black;
+    font-weight: bold;
+    border: 1px solid lightgrey;
+}
+
+.container a {
+    text-decoration: none;
+    color: purple;
+}
+.container h2 {
+    display: flex;
+    justify-content: center;
+    color: purple;
+}
+
+.container p {
+    text-align: center;
+    padding-top: 50px;
+    padding: 10px;
+}
+
+#Societe {
+    display: flex;
+}
+
+.first {
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey;  
+}
+
+.first h2 {
+    padding-left: 15px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.first h3 {
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.first p {
+    text-align: justify;
+    color: black ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#Pro {
+    display: flex;
+}
+
+.second {
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey;  
+}
+
+.second h2 {
+    margin-bottom: 15px;
+    color: purple;
+    padding-left: 15px;
+}
+
+.second h3 {
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.second p {
+    text-align: justify;
+    color: black ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#Wordpress {
+    display: flex;
+}
+
+.troisieme {
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey; 
+}
+
+.troisieme h2 {
+    margin-bottom: 15px;
+    color: purple;
+    padding-left: 15px;
+}
+
+.troisieme h3 {
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.troisieme p {
+    text-align: justify;
+    color: black ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#press {
+    display: flex;
+}
+
+.quatrieme {
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey; 
+}
+
+.quatrieme h2 {
+    margin-bottom: 15px;
+    color: purple;
+    padding-left: 15px;
+}
+
+.quatrieme h3 {
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.quatrieme p {
+    text-align: justify;
+    color: black ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#Légales {
+    display: flex;
+}
+
+.cinquieme {
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey;
+}
+
+.cinquieme h2 {
+    margin-bottom: 15px;
+    color: purple;
+    padding-left: 15px;
+}
+
+.cinquieme h3 {
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.cinquieme p {
+    text-align: justify;
+    color: black ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+#gratuit {
+    display: flex;
+}
+
+.sixieme {
+    text-align: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid lightgrey;
+}
+
+.sixieme h2 {
+    margin-bottom: 15px;
+    color: purple;
+    padding-left: 15px;
+}
+
+.sixieme h3 {
+    padding-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    color: purple;
+}
+
+.sixieme p {
+    text-align: justify;
+    color: black ;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
